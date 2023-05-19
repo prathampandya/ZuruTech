@@ -10,8 +10,6 @@
     background-color: violet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-
 .home-class{
     padding: 5%;
 }
@@ -37,7 +35,6 @@
 .fav-photos{
     padding-right: 65%;
 }
-
 
 .parent {
     display: grid;
